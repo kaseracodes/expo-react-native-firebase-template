@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233456159449",
+    "project_id": "mobile-app-skeleton",
+    "storage_bucket": "mobile-app-skeleton.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233456159449:android:75b5474a55c48c3660ccc8",
+        "android_client_info": {
+          "package_name": "com.hod.appskeleton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdeSb_rQv2ragyRlYzKhBSGOIOszTZlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
